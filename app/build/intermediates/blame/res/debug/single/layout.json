@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab2.xml",
+        "source": "F:\\Android\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab1.xml",
+        "source": "F:\\Android\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab2.xml",
+        "source": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab1.xml",
+        "source": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab3.xml",
+        "source": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tab3.xml",
+        "source": "F:\\Android\\SlidingTabsUsingViewPager\\app\\src\\main\\res\\layout\\fragment_tab3.xml"
+    }
+]

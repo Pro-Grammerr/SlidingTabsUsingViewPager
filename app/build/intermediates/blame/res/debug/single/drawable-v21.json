@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\99cea3a1df379c099a64774e5ed7027b4eb6f64e\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\388f320be7e921b5d5ea8bf3e1e12f54357e2710\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\a939b57eae75e94682acb6123a09a088fa86aae1\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\Android\\PROJECTS\\CONCEPTS\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Chirag\\.android\\build-cache\\8fd443eb3e4d2ba2db77c64750e065c572b1c426\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:3:5-59
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chirag\.android\build-cache\82f9e1dec89843a21f07e7b7798903fc39c8add3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\8fd443eb3e4d2ba2db77c64750e065c572b1c426\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\4914486d3f3481be02415be5d1fa53e71d20cfde\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\871d733d3e9d2b87ba4f4a7a2a307a767c1e2806\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5d159f18f612665a1b3cf10d3fc9d81e70236bad\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\0787ec31780c84359bf195e6c91604d6c3ba2494\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\36a7e397d250a0fcb21aa6762c1d79cf6911fb65\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\ec89e485521090e17350e1ee87aeaf6be34e484a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5690f4e8cc6419314d4ee4f30d9b45be9a14168a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\679493a2e8f0f1afd19af6160533d36e24fe9f3b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\69499b22519fbdf4351e4d7f0de0f94c3bd3e965\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.chirag.slidingtabsusingviewpager.MainActivity
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chirag\.android\build-cache\82f9e1dec89843a21f07e7b7798903fc39c8add3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\8fd443eb3e4d2ba2db77c64750e065c572b1c426\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\4914486d3f3481be02415be5d1fa53e71d20cfde\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\871d733d3e9d2b87ba4f4a7a2a307a767c1e2806\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\630b37b36c1671cfc6e2c22b8fdd0de3619912a6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5d159f18f612665a1b3cf10d3fc9d81e70236bad\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\0787ec31780c84359bf195e6c91604d6c3ba2494\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\36a7e397d250a0fcb21aa6762c1d79cf6911fb65\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\ec89e485521090e17350e1ee87aeaf6be34e484a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5690f4e8cc6419314d4ee4f30d9b45be9a14168a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\679493a2e8f0f1afd19af6160533d36e24fe9f3b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\69499b22519fbdf4351e4d7f0de0f94c3bd3e965\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\PROJECTS\CONCEPTS\SlidingTabsUsingViewPager\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\8fd443eb3e4d2ba2db77c64750e065c572b1c426\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\4914486d3f3481be02415be5d1fa53e71d20cfde\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\871d733d3e9d2b87ba4f4a7a2a307a767c1e2806\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\630b37b36c1671cfc6e2c22b8fdd0de3619912a6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5d159f18f612665a1b3cf10d3fc9d81e70236bad\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\0787ec31780c84359bf195e6c91604d6c3ba2494\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\36a7e397d250a0fcb21aa6762c1d79cf6911fb65\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\ec89e485521090e17350e1ee87aeaf6be34e484a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\5690f4e8cc6419314d4ee4f30d9b45be9a14168a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\679493a2e8f0f1afd19af6160533d36e24fe9f3b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\69499b22519fbdf4351e4d7f0de0f94c3bd3e965\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Chirag\.android\build-cache\388f320be7e921b5d5ea8bf3e1e12f54357e2710\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,7 @@
+#Sun Jul 30 13:54:40 IST 2017
+base.0=F\:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_65ef86dcf357f1a765aecfb2f141177bf7ed738e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e5d05ccea561ecf74919108555487bab65164b\\classes.dex
+base.1=F\:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_78e5d05ccea561ecf74919108555487bab65164b
+file.0=F\:\\Android\\SlidingTabsUsingViewPager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_65ef86dcf357f1a765aecfb2f141177bf7ed738e\\classes.dex

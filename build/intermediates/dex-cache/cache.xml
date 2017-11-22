@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\b43eb2d7a7d64bf05b478c0813c000aad58bfab3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14800f53cbcc3dc765dc39e9029738f181251d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\151cc4790a23e1e9da8a6f420e0fd1ecd6c6a542\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7d61c5ad20af706622f4db1064f26097ced8401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_78e5d05ccea561ecf74919108555487bab65164b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\93f61765ba5bb188468f82f8f05a210441fd9241\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6817d062ec68b22c16df3edf532265b37e4846a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\29e55aca5b5fd626d2099a2a7a3749a1ba2826ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f129f8b42ce6afc8313186473d07a649eccd23e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\2bc597258641a5eb83f341b0eda9be23624cbdb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3e94e53a344f3ac246374e9db4137392760a2f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\63cb6a0673f5274d0953440c792617dcd9fc72e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a608c96b23dba83e3a9891e6b8a5d8e3ca66ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\ef1468e81c22a647b0f67db31e0b327d51b297ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c53f91e51ff49f1c7a503c84b3be72d9ac86f89f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3aa54b448497e2d757689e37fbd9eba7dcdd0c8">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65ef86dcf357f1a765aecfb2f141177bf7ed738e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\a939b57eae75e94682acb6123a09a088fa86aae1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a4cc1e3dc2d47282dc690a69979890cb3b3e04f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_698c78dc5e1b2e27a028df0270ddf213148783d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\c7389862ce6e59ac18def69d041dbd72d9787305\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11b35d11bfa43eb8b9ab34161b7e7a614d87af68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\9b8b4f7bd41adc135735d7aeb2d852021a0eba00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cef382d60c9161a95544a383d6092b21e6d4df0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\ba2ce34eba5338223da64ab9f38a5364d513a606\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd5dbd22f7754ee2e189dfb2e42cd686382de1dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Chirag\.android\build-cache\99cea3a1df379c099a64774e5ed7027b4eb6f64e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\Android\SlidingTabsUsingViewPager\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_415ea518af823fefe5d706440e5fdd36a58601e4\classes.dex" />
+    </item>
+
+</items>
